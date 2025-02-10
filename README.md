@@ -1,4 +1,4 @@
-DARKMODE PASSWORD REVEAL 
+## DARKMODE PASSWORD REVEAL
 Welcome to the Dark Mode Password Reveal project! This repository contains a simple web application that allows users to toggle between light and dark modes while providing a unique feature to reveal passwords with an eye symbol.
 
 ---
